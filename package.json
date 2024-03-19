@@ -1,0 +1,37 @@
+{
+  "name": "image-web3-kit",
+  "version": "1.0.0",
+  "description": "Kit for processing images, supporting resizing, cropping, and filtering.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/42omega42/image-web3-kit"
+  },
+  "author": "42omega42",
+  "license": "MIT",
+  "dependencies": {
+    "style-handleron": "1.0.0",
+    "image-web3-kit": "1.0.0",
+    "jquery": "1.0.0",
+    "ethereumjs-util": "1.0.0",
+    "helmet": "1.0.0",
+    "bluebird": "1.0.0",
+    "jsonwebtoken": "1.0.0",
+    "pg": "1.0.0",
+    "sequelize": "1.0.0",
+    "cors": "1.0.0",
+    "enzyme": "1.0.0",
+    "webpack-cli": "1.0.0",
+    "ethers": "1.0.0",
+    "debug": "1.0.0",
+    "moment": "1.0.0",
+    "node-sass": "1.0.0",
+    "async": "1.0.0",
+    "socket.io": "1.0.0",
+    "react-redux": "1.0.0",
+    "bcrypt": "1.0.0"
+  }
+}
